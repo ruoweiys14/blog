@@ -1,5 +1,7 @@
 # 前端技术资料整理
 
+[个人关于前端工作的思考](https://www.yuque.com/docs/share/02c53e08-edfc-448c-8ed8-00e36a4a8f57)
+
 # 大神博客
 
 [2020 - 2021 年 Web 前端最新导航](https://github.com/biaochenxuying/blog/issues/74)
