@@ -25,6 +25,8 @@
 # 工具
 
 [webpack](https://webpack.wuhaolin.cn/)
+[GitLab CI/CD 自动部署构建](https://www.yuque.com/mty/here/zcmesl)
+[centos 7 配置 gitlab runner](https://www.jianshu.com/p/c78f8cd78d71)
 
 ESLint
 
@@ -33,6 +35,8 @@ umi-route
 # JavaScript
 
 [函数式编程指北](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/)
+# React
+[React 路由的详细讲解](https://www.yuque.com/kenguba/upkpls/cglbot)
 
 # React hooks
 
