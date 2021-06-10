@@ -43,3 +43,8 @@ umi-route
 # React hooks
 
 [React hooks 学习整理](https://www.yuque.com/docs/share/09005264-79f2-4636-a245-1a72920bed03)
+
+# 服务端知识
+[hosts](https://tianxintiandisheng.github.io/2019/11/11/JS/JS%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%835/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E6%97%B6%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E9%85%8D%E7%BD%AEhosts%E6%9D%A5%E6%9C%AC%E5%9C%B0%E6%B5%8B%E8%AF%95%EF%BC%9F%E5%92%8C%E4%BB%80%E4%B9%88%E6%9C%89%E5%85%B3%EF%BC%9F%E8%8B%A5%E4%B8%8D%E9%85%8D%E7%BD%AEhosts%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BB%80%E4%B9%88%EF%BC%9F/)
+
+[Nginx 中文文档](https://www.nginx.cn/doc/index.html)
